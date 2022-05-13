@@ -1,1 +1,1 @@
-#common applications
+# dictionaries common applications
